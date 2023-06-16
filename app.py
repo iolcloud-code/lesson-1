@@ -6,4 +6,5 @@ app = Flask(__name__)
 def index():
     return 'My first flask Project'
 
-app.run(host='0.0.0.0', port=$PORT)
+def app():
+    app.run(host='0.0.0.0', port=$PORT)
