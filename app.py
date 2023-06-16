@@ -7,4 +7,4 @@ def index():
     return 'My first flask Project'
 
 if __name__ == '__main__':
-    app.run(HOST='0.0.0.0', PORT=5000)
+    app.run(host='0.0.0.0', port=5000)
